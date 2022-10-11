@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edah115&show_icons=true&theme=tokyonight)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/834866945186594877?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/834866945186594877)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:834866945186594877)
+
 
